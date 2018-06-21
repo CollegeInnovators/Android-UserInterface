@@ -5,7 +5,7 @@ This is the first application which you'll be developing as a part of your Andro
 ### Option 1
 You can download this project without having to create a github account.
 
-Click on the green button on the top right screen which says `Clone or Download` and then select `Download ZIP` as option.
+Click on the green button on the top right of the screen which says `Clone or Download` and then select `Download ZIP` as option.
 After downloading the ZIP file extract the file to an easy to find location on your desktop and open the file using `open` option in Android studio.
 
 NOTE: Select the whole folder to open the project not individual files.
