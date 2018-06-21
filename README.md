@@ -8,7 +8,7 @@ You can download this project without having to create a github account.
 Click on the green button on the top right of the screen which says `Clone or Download` and then select `Download ZIP` as option.
 After downloading the ZIP file extract the file to an easy to find location on your desktop and open the file using `open` option in Android studio.
 
-NOTE: Select the whole folder to open the project not individual files.
+NOTE: Select the whole project folder to open the project and not individual files.
 
 ### Option 2
 If you have a Github account follow the steps given below.
