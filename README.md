@@ -15,5 +15,5 @@ If you have a Github account follow the steps given below.
 
 Click the fork option on extreme top right corner of the screen (Make sure you are logged in to your account). This will create a copy of the project in your account.
 
-Now navigate to your profile and look for the porject which you just forked It should be repositories sction. 
+Now navigate to your profile and look for the project which you just forked, It should be in repositories section. 
 Open the project and follow the instructions in Option 1.
